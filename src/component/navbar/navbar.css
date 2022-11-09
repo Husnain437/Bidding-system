@@ -1,0 +1,65 @@
+.nav-padding {
+    z-index: 99;
+    top: 0;
+    position: sticky;
+    height: 140px;
+    margin: auto;
+    background-color: rgb(233, 240, 240);
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.last {
+    margin-right: 60px !important;
+}
+
+.color {
+    background-color: rgb(233, 240, 240) !important;
+}
+
+.font-link {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-menu {
+    position: absolute;
+}
+
+.text-filed {
+    padding-right: 10px;
+}
+
+.Sell-btn {
+    box-shadow: 3px 3px rgb(175, 175, 175);
+    width: 100px;
+    height: 45px;
+    font-size: medium;
+    font-weight: bolder;
+    text-align: center;
+    background-color: white;
+    border-radius: 25px;
+    border: 5px solid;
+    border-color: rgb(255, 217, 0) rgb(0, 132, 255) orange rgb(0, 255, 64);
+}
+
+.snd-menu {
+    display: flex;
+    position: absolute;
+    right: 50px;
+    top: 25px;
+}

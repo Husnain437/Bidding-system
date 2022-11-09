@@ -1,0 +1,10 @@
+.countdown {
+    padding-left: 5px;
+    padding-right: 5px;
+    max-width: fit-content;
+    display: flex;
+    /* border-style: solid;
+    border-width: 1px;
+    background-color: rgb(209, 92, 92);
+    border-radius: 5px; */
+}

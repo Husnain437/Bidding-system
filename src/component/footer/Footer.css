@@ -1,0 +1,29 @@
+.main-footer {
+    left: 0;
+    bottom: 0;
+    padding-top: 10px;
+    min-width: 100%;
+    height: fit-content;
+    min-height: 180px;
+    background-color: rgb(233, 240, 240);
+    color: black;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.font-link {
+    font-family: 'Roboto', sans-serif;
+}
+
+.heading {
+    text-align: left;
+}
+
+.list-unstyled {
+    text-align: left;
+    
+}

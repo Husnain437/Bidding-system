@@ -1,0 +1,297 @@
+{
+  "posts": [
+    {
+      "title": "Smart Watch",
+      "description": "Xiaomi Smart watch with camera",
+      "price": "7000",
+      "location": "fsd",
+      "userId": "112524357354444032823",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2FRealme-Watch-2-Black-2.pngf8dfe383-8dbe-4e30-a3c1-bcfea48ffd8c?alt=media&token=665513ab-8b7c-4fb2-bc46-00e6f546ba69",
+      "id": 32
+    },
+    {
+      "title": "car",
+      "description": "car",
+      "price": "123",
+      "location": "faisalabad",
+      "userId": "112524357354444032823",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2Fmost-powerful-cars-under-200000-6-1024x585.jpga69f68ca-67f8-4a66-9ae4-da0ed1b917db?alt=media&token=bd97f43b-7809-44f0-8751-c49dab4f4a8a",
+      "id": 33
+    },
+    {
+      "title": "klhfuigq",
+      "description": "jabfjbajfbj",
+      "price": "1231",
+      "location": "fsd",
+      "userId": "112524357354444032823",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2Fcharger-1080p.webp5d0ca915-1ff8-4ab8-81bb-dee978cfaa87?alt=media&token=4bf04967-a6bd-4179-a6c3-472591159882",
+      "id": 35
+    },
+    {
+      "title": "hfkck",
+      "description": "fkdtcktdk",
+      "price": "123",
+      "location": "fsd",
+      "userId": "112524357354444032823",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2F2021_Dodge_Charger_SRT_Hellcat_Redeye.jpgd39558ca-a4f2-498d-aff6-c82f6014455b?alt=media&token=f3bb1b47-0018-4393-9b04-e4dec022c3c9",
+      "id": 36
+    },
+    {
+      "title": "iphone 13 Pro Max",
+      "description": "iphone for sale 512gb Pta approved ",
+      "price": "300000",
+      "location": "Faisalabad",
+      "userId": "101415194407512937046",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2Fmb_img_58.jpg1f1476f9-6c95-49a0-a0ab-afc446cb76ea?alt=media&token=94615c0f-3383-43d7-ac37-a0bc18666c7a",
+      "id": 39
+    },
+    {
+      "title": "Yamaha Ybr 125",
+      "description": "  yamaha Ybr  125 japnies made",
+      "price": "123545",
+      "location": "Faisalabad",
+      "userId": "112524357354444032823",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2F2021-Yamaha-XSR155-Matte-Green-Color.jpge71ae453-7aca-49c7-ae7b-d8ecb92984eb?alt=media&token=ace96314-2ecf-436f-9707-37c09a9d1e0d",
+      "id": 40
+    },
+    {
+      "title": "Rolex Watch",
+      "description": "Rolex Watch ",
+      "price": "120000",
+      "location": "Faisalabad",
+      "userId": "101415194407512937046",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2F116618-lb-1-f2-3-jpg_771043.jpga8cb933a-1757-49ee-8754-2d4d8f5a8880?alt=media&token=96a58f0b-c8d0-4e27-b94a-4012f4daba79",
+      "id": 41
+    },
+    {
+      "title": "Persian Cat",
+      "description": "Persian Cat Double Coated ",
+      "price": "2000",
+      "location": "Lahore",
+      "userId": "101415194407512937046",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2F7aca07e753f78856a75b683afda4ec67.jpgda0d65e9-d0d5-4e6c-bc68-5a7ab2476526?alt=media&token=61ed1864-a756-4b1c-bc44-0dd2df2c67fb",
+      "id": 42
+    },
+    {
+      "title": "Antique Lamp ",
+      "description": "An Antique Lamp used by queen of England ",
+      "price": "56000",
+      "location": "London",
+      "userId": "101415194407512937046",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2Fantique-lantern-dome-top-lantern-13.jpg1ba23e16-5b08-4148-8a36-62a83fcfe5c7?alt=media&token=0d7b68d6-f650-4c62-8b3b-244f74b6923c",
+      "id": 43
+    },
+    {
+      "title": "countdown test",
+      "description": "countdown test",
+      "price": "123",
+      "location": "Faisalabad",
+      "userId": "112524357354444032823",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2Flg_jTbMJnvApXeB7mfowOyOPhiB86I625BqPkBwtHhc.jpg9e54a027-6b71-44c3-ad2c-59a02d72195f?alt=media&token=ac16e1bb-7952-4231-a03f-444b1b218282",
+      "id": 44
+    },
+    {
+      "title": "QJFBIUBFU",
+      "description": "AIUFGBAGB",
+      "price": "KLADNFB",
+      "location": "hUSNAIN aLI",
+      "userId": "112524357354444032823",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2Fgalaxy-note20_highlights_kv_video_end.jpgbd129806-55e6-48f7-967b-30f090e16824?alt=media&token=fdfc81da-e77b-471f-a770-63b77c1c8087",
+      "id": 47
+    },
+    {
+      "title": "lhwbv",
+      "description": "wiufguiwgb",
+      "price": "whoghuw",
+      "location": "Faisalabad",
+      "userId": "112524357354444032823",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2FPG-5-1-1644864151.jpg2ea20f95-dde6-402d-b7c2-41cec01c6ed9?alt=media&token=72d6bfe8-d1b6-4807-974b-bb53c97bda0f",
+      "id": 48
+    },
+    {
+      "data": {
+        "title": "datae tteting",
+        "description": "datae tteting",
+        "price": "123",
+        "location": "fsd",
+        "createdDate": "2022-08-14T12:22:06.282Z"
+      },
+      "userId": "112524357354444032823",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2Fecommerce-email-templates-with-photo_23-2148714843.webp2c87c7d2-3346-43d6-a8e8-613571f00928?alt=media&token=565b4f31-5715-44db-9880-c9c405f37628",
+      "id": 49
+    },
+    {
+      "data": {
+        "title": "tseting",
+        "description": "tseting",
+        "price": "123",
+        "location": "fsd",
+        "createdDate": "2022-08-14T12:24:37.955Z"
+      },
+      "userId": "112524357354444032823",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2Fecommerce-email-templates-with-photo_23-2148714843.webpc6c23727-eb40-49a9-a4a3-9879f327f2b9?alt=media&token=3b642560-88d7-418d-ba58-54234ea08f27",
+      "id": 50
+    },
+    {
+      "data": {
+        "title": "testin",
+        "description": "testin",
+        "price": "123",
+        "location": "fsd",
+        "createdDate": "2022-08-14T12:25:40.023Z"
+      },
+      "userId": "112524357354444032823",
+      "image": "",
+      "id": 51
+    },
+    {
+      "title": "testing",
+      "description": "testing",
+      "price": "123",
+      "location": "fsd",
+      "createdDate": "2022-08-14T12:31:28.164Z",
+      "userId": "112524357354444032823",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2Fecommerce-email-templates-with-photo_23-2148714843.webp7eb1d5a5-4ec2-43e5-a823-d9ebe45250a3?alt=media&token=9beb48d3-64d5-4735-bd13-48f88542e585",
+      "id": 52
+    },
+    {
+      "title": "tesifnsdif",
+      "description": "qls;kdfjsadklf",
+      "price": "123",
+      "location": "fsd",
+      "createdDate": "2022-08-14T12:36:23.988Z",
+      "userId": "112524357354444032823",
+      "image": "",
+      "id": 53
+    },
+    {
+      "title": "kjsdhga",
+      "description": "hsgwhog",
+      "price": "123`",
+      "location": "fsd",
+      "createdDate": "2022-08-14T13:02:15.888Z",
+      "userId": "112524357354444032823",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2Fecommerce-email-templates-with-photo_23-2148714843.webp618478d5-c89c-4b61-8a91-8efdcd235579?alt=media&token=2e633d95-9009-4f9b-8b64-1400b812c025",
+      "id": 54
+    },
+    {
+      "title": "Husnain",
+      "description": "husnain",
+      "price": "1234",
+      "location": "fsd",
+      "createdDate": "2022-08-15T14:23:26.093Z",
+      "userId": "101415194407512937046",
+      "image": "",
+      "id": 56
+    },
+    {
+      "title": "ksdhgv",
+      "description": "kjfqwe",
+      "price": "2123",
+      "location": "husnain",
+      "createdDate": "2022-08-15T14:28:33.936Z",
+      "userId": "101415194407512937046",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2Fecommerce-email-templates-with-photo_23-2148714843.webpbee80d08-c02f-4856-b891-25ef8f01616d?alt=media&token=85988467-4848-4997-ba8a-59e650c0a59b",
+      "id": 58
+    },
+    {
+      "title": "name test",
+      "description": "name test ",
+      "price": "123",
+      "location": "fsd",
+      "createdDate": "2022-08-18T14:31:05.162Z",
+      "userId": "Husnain Ali",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2Fecommerce-webstite-design_opt.png36d5a9da-c332-4661-ad1f-8556dfcd18dc?alt=media&token=51336bfe-6a1a-4d43-963e-4351f526c66d",
+      "id": 59
+    },
+    {
+      "title": "sold checker",
+      "description": "dddddddd",
+      "price": "123`",
+      "location": "faisalabad",
+      "createdDate": "2022-08-22T19:49:34.372Z",
+      "userId": "101415194407512937046",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2FE-Commerce.jpgc55936e0-7c8c-4b4e-94fe-ddfa52dac39e?alt=media&token=a42011d8-889b-4f5e-b582-39b280b3e2e7",
+      "id": 60
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "price": "123",
+      "location": "lahore",
+      "createdDate": "2022-08-30T14:45:47.838Z",
+      "userId": "101415194407512937046",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bidplacer-1.appspot.com/o/images%2F68747470733a2f2f692e696d6775722e636f6d2f5548746c364f322e706e67.png05c4393a-9237-43fc-9dd5-6ecb5ed19dfc?alt=media&token=f75ceb17-52e9-4574-862c-254442b91aac",
+      "id": 61
+    }
+  ],
+  "bids": [
+    {
+      "userId": "112524357354444032823",
+      "bid": "1248",
+      "id": 35
+    },
+    {
+      "userId": "112524357354444032823",
+      "bid": null,
+      "id": 29
+    },
+    {
+      "userId": "112524357354444032823",
+      "bid": "12314",
+      "id": 32
+    },
+    {
+      "userId": "101415194407512937046",
+      "bid": "1231231",
+      "id": 33
+    },
+    {
+      "userId": "112524357354444032823",
+      "bid": "123444",
+      "id": 36
+    },
+    {
+      "userId": "112524357354444032823",
+      "bid": null,
+      "id": 54
+    },
+    {
+      "userId": "101415194407512937046",
+      "bid": "123549",
+      "id": 40
+    },
+    {
+      "userId": "101415194407512937046",
+      "bid": "21236",
+      "id": 58
+    },
+    {
+      "userId": "101415194407512937046",
+      "bid": "120001",
+      "id": 41
+    },
+    {
+      "userId": "101415194407512937046",
+      "bid": "300001",
+      "id": 39
+    },
+    {
+      "userId": "101415194407512937046",
+      "bid": "123444",
+      "id": 43
+    }
+  ]
+}

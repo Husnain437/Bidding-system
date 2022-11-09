@@ -1,0 +1,12 @@
+.Item_Card {
+    max-width: 100;
+    margin-bottom: 20px;
+}
+
+.banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    width: 90%;
+}

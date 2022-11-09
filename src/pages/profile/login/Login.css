@@ -1,0 +1,85 @@
+.Login-main-div {
+    max-height: 100%;
+    border-radius: 30px;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+    padding: 30px 0px;
+}
+
+.Login-card-main-div {
+    border-radius: 30px;
+    margin: auto;
+    box-shadow: 0px 4px 8px 4px rgb(233, 240, 240);
+    padding: 20px 0px;
+    max-width: 400px;
+    height: 340px;
+    transform: translate(-0%, 10%);
+    background-color: white;
+}
+
+.font-link {
+    font-family: 'Roboto', sans-serif;
+}
+
+.active-heading {
+    color: teal;
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 55px;
+    margin-right: 30px;
+    margin-bottom: 0px;
+}
+
+.Login-heading {
+    color: teal;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.Login-heading-div {
+    display: flex;
+    padding-bottom: 5px;
+}
+
+.Login-input-main-div button {
+    width: 100%;
+    background-color: rgb(233, 240, 240);
+    color: white;
+    border: none;
+    padding: 15px 0px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.Login-input-main-div {
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0px 4px 8px 4px rgb(233, 240, 240);
+    padding: 30px 60px;
+    text-align: left;
+}
+
+.Login-input-main-div input {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid rgb(233, 240, 240);
+    margin: auto;
+    background-color: transparent;
+    color: grey;
+    padding: 10px 0px;
+    margin-bottom: 15px;
+    outline: none;
+    font-size: 12px;
+}
+
+.Login-input-main-div label {
+    color: rgb(233, 240, 240);
+    font-weight: 700;
+}
+
+@media only screen and (max-width:910px) {
+    .sign-up-main-div {
+        padding: 30px 50px;
+    }
+}

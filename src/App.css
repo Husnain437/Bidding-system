@@ -1,0 +1,18 @@
+.App {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bot_fot {
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.nav_bar {
+    overflow: hidden;
+    position: static;
+    left: 0;
+    top: 0;
+    width: 100%;
+}

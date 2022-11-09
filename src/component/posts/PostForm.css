@@ -1,0 +1,38 @@
+.container {
+    text-align: center !important;
+   
+}
+.postcreate{
+    margin: 20px;
+}
+.font-link {
+    font-family: 'Roboto', sans-serif;
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.main {
+    padding: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* .heading {
+    border: 1px solid;
+    padding: 20px;
+} */
+
+
+/* .info {
+    border: 1px solid;
+    padding: 20px;
+} */
